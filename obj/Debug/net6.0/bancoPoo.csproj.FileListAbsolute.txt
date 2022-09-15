@@ -1,0 +1,15 @@
+C:\Users\CAMPEON\source\repos\bancoPoo\bin\Debug\net6.0\bancoPoo.exe
+C:\Users\CAMPEON\source\repos\bancoPoo\bin\Debug\net6.0\bancoPoo.deps.json
+C:\Users\CAMPEON\source\repos\bancoPoo\bin\Debug\net6.0\bancoPoo.runtimeconfig.json
+C:\Users\CAMPEON\source\repos\bancoPoo\bin\Debug\net6.0\bancoPoo.dll
+C:\Users\CAMPEON\source\repos\bancoPoo\bin\Debug\net6.0\bancoPoo.pdb
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.csproj.AssemblyReference.cache
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.AssemblyInfoInputs.cache
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.AssemblyInfo.cs
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.csproj.CoreCompileInputs.cache
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.dll
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\refint\bancoPoo.dll
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.pdb
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\bancoPoo.genruntimeconfig.cache
+C:\Users\CAMPEON\source\repos\bancoPoo\obj\Debug\net6.0\ref\bancoPoo.dll

@@ -1,0 +1,16 @@
+crear una clase banco 
+especificarle las propiedades o atributos de la clase a traves del objeto constructor 
+
+crear un metodo deposito
+crear un metodo retiro
+crear un metodo saldo_cuenta
+
+instanciar un objeto y pasarle los datos correspondientes 
+
+
+instanciar esos metodos desde el objeto anteriormente creados. pudiendo depositar saldo, retirar saldo,
+y consultar saldo del cliente
+
+solicitar al cliente valor a depositar y retirar. 
+
+buena suerte !
